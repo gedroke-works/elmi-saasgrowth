@@ -29,6 +29,7 @@
     "autoprefixer": "^10.4.12",
     "cheerio": "^1.0.0-rc.12",
     "class-variance-authority": "^0.7.0",
+    "client-only": "^0.0.1",
     "clsx": "^1.2.1",
     "fast-glob": "^3.2.11",
     "feed": "^4.2.2",
@@ -48,6 +49,7 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
+    "@types/gtag.js": "^0.0.18",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.16",
     "eslint-plugin-mdx": "^2.2.0",
