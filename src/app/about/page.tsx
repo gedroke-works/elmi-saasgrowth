@@ -45,7 +45,7 @@ function MailIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
 export const metadata: Metadata = {
   title: 'About',
   description:
-    "I'm Ibrahim, a French SaaS Advisor guiding firms in the industry.",
+    "I'm Ibrahim, a French SaaS Advisor guiding firms in the SaaS industry.",
 }
 
 export default function About() {
