@@ -13,7 +13,7 @@ const projects = [
     name: 'Unlock Your Growth Potential - How to build a growth machine for SaaS',
     description:
       'A comprehensive guide that covers all aspects of the phase between product/market fit and scaling.',
-    link: { href: 'https://koji.to/k/9zVJ', label: 'Get Instant Access' },
+    link: { href: 'https://koji.to/k/9NnB', label: 'Get Instant Access' },
     logo: guide,
   },
   {
